@@ -1,3 +1,12 @@
+## Credits
+
+This project is based on the tutorial by EdRoh, where they demonstrate how to build a fully responsive Typescript React Fitness Application.
+
+I thank the original creater as this tutorial helped me learn about the implementation and integration of several different tech tools into one project. I tried my best to understand the code instead of merely copying it word by word. I initially faced many issues regarding Localhost port connectivity, npm commands etc. I also faced issues with the Prettier extension and had to recreate the React app, but eventually I was able to complete the website and deploy it successfully using CloudFlare pages. 
+
+Original Tutorial:
+- https://www.youtube.com/watch?v=I2NNxr3WPDo
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
